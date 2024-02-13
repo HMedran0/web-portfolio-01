@@ -1,3 +1,3 @@
 # web-portfolio-01
 ## By Hector Medrano
-### This is a developer website made using HTML and CSS.
+### This is an static developer website made using only HTML and CSS.
